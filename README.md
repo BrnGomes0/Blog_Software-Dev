@@ -18,4 +18,3 @@ This project was created by Bruno Gomes, where the aim is to share knowledge and
 - **tRPC**
 - **NextAuth.js**
 - **Auth0**
-
