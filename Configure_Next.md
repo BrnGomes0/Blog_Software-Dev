@@ -1,0 +1,1 @@
+# Settings Next.js in this project 🛠️
